@@ -12,6 +12,9 @@ import './models/transaction.dart';
 import './widgets/chart.dart';
 
 // Komentar
+// Hellow
+//
+// Stage 2
 void main() {
   // WidgetsFlutterBinding.‚‚ensureInitialized();
   // SystemChrome.setPreferredOrientations(
