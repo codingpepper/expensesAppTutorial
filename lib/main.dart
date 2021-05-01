@@ -13,7 +13,7 @@ import './widgets/chart.dart';
 
 // Komentar
 void main() {
-  // WidgetsFlutterBinding.ensureInitialized();
+  // WidgetsFlutterBinding.‚‚ensureInitialized();
   // SystemChrome.setPreferredOrientations(
   //     [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
   runApp(MyApp());
